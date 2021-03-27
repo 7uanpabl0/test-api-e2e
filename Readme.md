@@ -11,6 +11,7 @@ cd test-api-e2e
 code .
 
 ## Instalar dependencias
+## Abrir la termanal
 
 npm install
 
