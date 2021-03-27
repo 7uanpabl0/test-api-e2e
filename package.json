@@ -1,0 +1,11 @@
+{
+  "name": "api-tarea2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha e2e/**/*.spec.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
